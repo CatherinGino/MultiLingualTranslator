@@ -2,5 +2,5 @@
 
 created using @replit
 
-# A simple translator app 
-_ ~ Happy Translating ~ _
+**A simple translator app** 
+ ~ _Happy Translating_ ~ 
